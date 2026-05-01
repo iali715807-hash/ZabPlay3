@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/video" android:title="Videos" android:icon="@android:drawable/ic_menu_slideshow" />
+    <item android:id="@+id/music" android:title="Music" android:icon="@android:drawable/ic_lock_silent_mode" />
+    <item android:id="@+id/photo" android:title="Photos" android:icon="@android:drawable/ic_menu_gallery" />
+    <item android:id="@+id/files" android:title="Files" android:icon="@android:drawable/ic_menu_save" />
+</menu>
+
